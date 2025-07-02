@@ -1,1 +1,1 @@
-simple website created with Claude Sonnet 4 and TextEdit
+Simple website created using Claude Sonnet 4 and TextEdit.

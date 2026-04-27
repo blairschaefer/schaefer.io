@@ -24,7 +24,7 @@ jobs:
           # Need full history so we can detect recent manual commits.
           fetch-depth: 10
 
-      - name: Skip if last commit was manual
+- name: Skip if last commit was manual
         id: check
         run: |
           last_msg=$(git log -1 --pretty=%s)

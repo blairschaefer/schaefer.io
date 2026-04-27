@@ -29,12 +29,14 @@ jobs:
         run: |
           last_msg=$(git log -1 --pretty=%s)
           echo "Last commit: $last_msg"
-          if [[ "$last_msg" == "chore(theme):"* ]]; then
+          echo "Triggered by: ${{ github.event_name }}"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "Manual run — never skip."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif [[ "$last_msg" == "chore(theme):"* ]]; then
             echo "Last commit was an automated theme update — proceeding."
             echo "skip=false" >> "$GITHUB_OUTPUT"
           else
-            # Last commit was manual. Skip this run to avoid clobbering.
-            # The next day's run will resume normally.
             echo "Last commit was manual — skipping today to avoid clobbering."
             echo "skip=true" >> "$GITHUB_OUTPUT"
           fi

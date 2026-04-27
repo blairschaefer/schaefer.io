@@ -1,0 +1,70 @@
+name: Daily Theme Rotation
+
+on:
+  schedule:
+    # 11:00 UTC daily ≈ 7am ET / 4am PT. Adjust to taste.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    # Allows you to trigger a run manually from the GitHub Actions tab.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-theme
+  cancel-in-progress: false
+
+jobs:
+  rotate-theme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Need full history so we can detect recent manual commits.
+          fetch-depth: 10
+
+      - name: Skip if last commit was manual
+        id: check
+        run: |
+          last_msg=$(git log -1 --pretty=%s)
+          echo "Last commit: $last_msg"
+          if [[ "$last_msg" == "chore(theme):"* ]]; then
+            echo "Last commit was an automated theme update — proceeding."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          else
+            # Last commit was manual. Skip this run to avoid clobbering.
+            # The next day's run will resume normally.
+            echo "Last commit was manual — skipping today to avoid clobbering."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.check.outputs.skip != 'true'
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run theme rotation
+        if: steps.check.outputs.skip != 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/update_theme.py
+
+      - name: Commit and push
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git config user.name  "schaefer-io-bot"
+          git config user.email "[email protected]"
+          if git diff --quiet theme.css theme-history.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          today=$(date -u +%Y-%m-%d)
+          git add theme.css theme-history.json
+          git commit -m "chore(theme): daily rotation $today"
+          git push

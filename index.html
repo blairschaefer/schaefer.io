@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Schaefer.io</title>
+    <link rel="stylesheet" href="theme.css">
     <style>
         * {
             margin: 0;
@@ -12,25 +13,25 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', system-ui, sans-serif;
-            background: #ffffff;
+            font-family: var(--font-body);
+            background: var(--color-page-bg);
             min-height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
             padding: 20px;
-            color: #1a1a1a;
+            color: var(--color-text);
         }
 
         .container {
-            background: #fafafa;
+            background: var(--color-card-bg);
             border-radius: 8px;
             padding: 50px 35px;
             max-width: 550px;
             width: 100%;
             text-align: center;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
-            border: 1px solid #e5e5e5;
+            box-shadow: 0 8px 32px var(--color-card-shadow);
+            border: 1px solid var(--color-card-border);
             animation: fadeInUp 0.8s ease-out;
         }
 
@@ -49,20 +50,20 @@
             width: 90px;
             height: 90px;
             border-radius: 4px;
-            background: #f0f0f0;
+            background: var(--color-avatar-bg);
             margin: 0 auto 25px;
             display: flex;
             align-items: center;
             justify-content: center;
             transition: all 0.2s ease;
-            border: 2px solid #e5e5e5;
+            border: 2px solid var(--color-avatar-border);
             overflow: hidden;
             position: relative;
         }
 
         .avatar:hover {
-            background: #e8e8e8;
-            border-color: #d0d0d0;
+            background: var(--color-avatar-bg-hover);
+            border-color: var(--color-avatar-border-hover);
         }
 
         .avatar img {
@@ -73,23 +74,24 @@
 
         .avatar-placeholder {
             font-size: 12px;
-            color: #999;
+            color: var(--color-muted);
             text-align: center;
             padding: 10px;
             line-height: 1.2;
         }
 
         h1 {
+            font-family: var(--font-heading);
             font-size: 2.2rem;
             font-weight: 700;
             margin-bottom: 12px;
-            color: #000000;
+            color: var(--color-heading);
             letter-spacing: -0.5px;
         }
 
         .title {
             font-size: 1rem;
-            color: #666;
+            color: var(--color-subtitle);
             margin-bottom: 25px;
             font-weight: 400;
             text-transform: uppercase;
@@ -99,7 +101,7 @@
         .bio {
             font-size: 0.9rem;
             line-height: 1.5;
-            color: #444;
+            color: var(--color-body);
             margin-bottom: 35px;
             max-width: 450px;
             margin-left: auto;
@@ -119,19 +121,19 @@
             gap: 6px;
             padding: 8px 16px;
             background: transparent;
-            color: #555;
+            color: var(--color-link);
             text-decoration: none;
             border-radius: 4px;
             font-weight: 500;
             transition: all 0.2s ease;
-            border: 1px solid #d0d0d0;
+            border: 1px solid var(--color-link-border);
             font-size: 0.85rem;
         }
 
         .link:hover {
-            background: #f5f5f5;
-            color: #000000;
-            border-color: #bbb;
+            background: var(--color-link-bg-hover);
+            color: var(--color-link-hover);
+            border-color: var(--color-link-border-hover);
         }
 
         .icon {
@@ -180,7 +182,7 @@
             position: absolute;
             width: 2px;
             height: 2px;
-            background: #e0e0e0;
+            background: var(--color-floating);
             border-radius: 1px;
             animation: float 8s ease-in-out infinite;
         }

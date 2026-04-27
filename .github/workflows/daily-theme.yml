@@ -20,6 +20,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 10
+          # Persist the GITHUB_TOKEN credentials so we can push later.
+          persist-credentials: true
 
       - name: Skip if last commit was manual
         id: check
@@ -57,13 +59,28 @@ jobs:
       - name: Commit and push
         if: steps.check.outputs.skip != 'true'
         run: |
-          git config user.name  "schaefer-io-bot"
+          set -e
+          git config user.name "schaefer-io-bot"
           git config user.email "[email protected]"
-          if git diff --quiet theme.css theme-history.json; then
-            echo "No changes to commit."
+
+          echo "--- git status before staging ---"
+          git status --short
+
+          # Stage everything that changed (theme.css, theme-history.json, anything else the script might add)
+          git add -A
+
+          echo "--- staged changes ---"
+          git diff --cached --stat
+
+          if git diff --cached --quiet; then
+            echo "No staged changes to commit."
             exit 0
           fi
+
           today=$(date -u +%Y-%m-%d)
-          git add theme.css theme-history.json
           git commit -m "chore(theme): daily rotation $today"
-          git
+
+          echo "--- pushing to ${GITHUB_REF_NAME} ---"
+          git push origin HEAD:"${GITHUB_REF_NAME}"
+
+          echo "--- done ---"

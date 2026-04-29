@@ -1,47 +1,47 @@
 /*
  * theme.css — auto-rotated daily by .github/workflows/daily-theme.yml
- * Theme: "sage" + "inter"
+ * Theme: "ink-blue" + "ibm-plex"
  * Last updated: 2026-04-29 UTC
  *
  * This file is overwritten by the automated daily theme rotation.
  * To change which themes are eligible, edit theme.json (not this file).
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap');
 
 :root {
     /* Typography */
-    --font-heading: 'Inter', system-ui, sans-serif;
-    --font-body: 'Inter', system-ui, sans-serif;
+    --font-heading: 'IBM Plex Sans', system-ui, sans-serif;
+    --font-body: 'IBM Plex Sans', system-ui, sans-serif;
 
     /* Page */
-    --color-page-bg: #f6f8f5;
-    --color-text: #1f2820;
+    --color-page-bg: #ffffff;
+    --color-text: #1a2840;
 
     /* Card */
-    --color-card-bg: #fdfdfb;
-    --color-card-border: #dde3d7;
-    --color-card-shadow: rgba(40, 60, 40, 0.08);
+    --color-card-bg: #f7f9fd;
+    --color-card-border: #dce4f0;
+    --color-card-shadow: rgba(20, 40, 80, 0.08);
 
     /* Avatar */
-    --color-avatar-bg: #e9efe3;
-    --color-avatar-bg-hover: #dee6d6;
-    --color-avatar-border: #cdd6c4;
-    --color-avatar-border-hover: #a8b59c;
+    --color-avatar-bg: #eaf0fa;
+    --color-avatar-bg-hover: #dde6f4;
+    --color-avatar-border: #c8d4e8;
+    --color-avatar-border-hover: #9aafd0;
 
     /* Text hierarchy */
-    --color-heading: #11180f;
-    --color-subtitle: #5d6a55;
-    --color-body: #3a4434;
-    --color-muted: #8a9580;
+    --color-heading: #0c1a30;
+    --color-subtitle: #556a8a;
+    --color-body: #324460;
+    --color-muted: #8295b3;
 
     /* Links */
-    --color-link: #4a5444;
-    --color-link-hover: #11180f;
-    --color-link-border: #cdd6c4;
-    --color-link-border-hover: #a8b59c;
-    --color-link-bg-hover: #ecf0e7;
+    --color-link: #3e5070;
+    --color-link-hover: #0c1a30;
+    --color-link-border: #c8d4e8;
+    --color-link-border-hover: #9aafd0;
+    --color-link-bg-hover: #eaf0fa;
 
     /* Decorative */
-    --color-floating: #cdd6c4;
+    --color-floating: #c8d4e8;
 }

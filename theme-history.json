@@ -16,5 +16,11 @@
     "palette": "sage",
     "font": "inter",
     "reasoning": "Sage provides a fresh, light palette after slate-cool, paired with clean Inter for a calm, modern aesthetic."
+  },
+  {
+    "date": "2026-04-29",
+    "palette": "ink-blue",
+    "font": "ibm-plex",
+    "reasoning": "A technical, structured pairing that shifts to a darker mood after recent light palettes while avoiding any repeats."
   }
 ]

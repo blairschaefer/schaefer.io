@@ -20,24 +20,43 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 10
-          # Persist the GITHUB_TOKEN credentials so we can push later.
           persist-credentials: true
 
-      - name: Skip if last commit was manual
+      - name: Decide whether to skip
         id: check
         run: |
           last_msg=$(git log -1 --pretty=%s)
+          last_ts=$(git log -1 --pretty=%ct)   # commit time, unix epoch seconds
+          now_ts=$(date -u +%s)
+          age_hours=$(( (now_ts - last_ts) / 3600 ))
+
           echo "Last commit: $last_msg"
+          echo "Commit age: ${age_hours} hours"
           echo "Triggered by: ${{ github.event_name }}"
+
+          # Manual runs always proceed.
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "Manual run — never skip."
             echo "skip=false" >> "$GITHUB_OUTPUT"
-          elif [[ "$last_msg" == "chore(theme):"* ]]; then
+            exit 0
+          fi
+
+          # Bot commits always continue the rotation chain.
+          if [[ "$last_msg" == "chore(theme):"* ]]; then
             echo "Last commit was an automated theme update — proceeding."
             echo "skip=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "Last commit was manual — skipping today to avoid clobbering."
+            exit 0
+          fi
+
+          # Manual commits within the last 20 hours block today's rotation
+          # (gives you a one-day grace period to make follow-up edits without
+          # the bot clobbering them). After that, rotation resumes.
+          if [[ "$age_hours" -lt 20 ]]; then
+            echo "Recent manual commit (${age_hours}h old) — skipping today."
             echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Manual commit is older than 20 hours — resuming rotation."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Set up Python
@@ -66,7 +85,6 @@ jobs:
           echo "--- git status before staging ---"
           git status --short
 
-          # Stage everything that changed (theme.css, theme-history.json, anything else the script might add)
           git add -A
 
           echo "--- staged changes ---"

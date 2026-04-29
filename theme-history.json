@@ -4,5 +4,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "Starting fresh with a warm, inviting serif combination perfect for a Monday."
+  },
+  {
+    "date": "2026-04-29",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A crisp, modern pairing that contrasts the previous warm palette with cool tones and a geometric sans-serif."
   }
 ]

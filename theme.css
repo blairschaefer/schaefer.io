@@ -1,47 +1,47 @@
 /*
  * theme.css — auto-rotated daily by .github/workflows/daily-theme.yml
- * Theme: "warm-paper" + "fraunces-inter"
- * Last updated: 2026-04-27 UTC
+ * Theme: "slate-cool" + "space-grotesk"
+ * Last updated: 2026-04-29 UTC
  *
  * This file is overwritten by the automated daily theme rotation.
  * To change which themes are eligible, edit theme.json (not this file).
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
 
 :root {
     /* Typography */
-    --font-heading: 'Fraunces', Georgia, serif;
-    --font-body: 'Inter', system-ui, sans-serif;
+    --font-heading: 'Space Grotesk', system-ui, sans-serif;
+    --font-body: 'Space Grotesk', system-ui, sans-serif;
 
     /* Page */
-    --color-page-bg: #fbf7f2;
-    --color-text: #2a241e;
+    --color-page-bg: #f4f6f8;
+    --color-text: #1c2530;
 
     /* Card */
-    --color-card-bg: #f5efe6;
-    --color-card-border: #e3d9c8;
-    --color-card-shadow: rgba(80, 60, 30, 0.08);
+    --color-card-bg: #ffffff;
+    --color-card-border: #dde3ea;
+    --color-card-shadow: rgba(20, 40, 60, 0.08);
 
     /* Avatar */
-    --color-avatar-bg: #ede4d3;
-    --color-avatar-bg-hover: #e0d4bc;
-    --color-avatar-border: #d6c8ac;
-    --color-avatar-border-hover: #bca982;
+    --color-avatar-bg: #e8edf2;
+    --color-avatar-bg-hover: #dce3ea;
+    --color-avatar-border: #cdd5de;
+    --color-avatar-border-hover: #a8b3bf;
 
     /* Text hierarchy */
-    --color-heading: #1d160d;
-    --color-subtitle: #7a6a52;
-    --color-body: #4a3f30;
-    --color-muted: #a89779;
+    --color-heading: #0f1620;
+    --color-subtitle: #5c6b7a;
+    --color-body: #3a4654;
+    --color-muted: #8b97a5;
 
     /* Links */
-    --color-link: #5a4a35;
-    --color-link-hover: #1d160d;
-    --color-link-border: #c9b894;
-    --color-link-border-hover: #a88f5f;
-    --color-link-bg-hover: #efe5d3;
+    --color-link: #4a5867;
+    --color-link-hover: #0f1620;
+    --color-link-border: #cdd5de;
+    --color-link-border-hover: #a8b3bf;
+    --color-link-bg-hover: #eaeff4;
 
     /* Decorative */
-    --color-floating: #d6c8ac;
+    --color-floating: #cdd5de;
 }

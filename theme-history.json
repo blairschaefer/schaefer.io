@@ -10,5 +10,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A crisp, modern pairing that contrasts the previous warm palette with cool tones and a geometric sans-serif."
+  },
+  {
+    "date": "2026-04-29",
+    "palette": "sage",
+    "font": "inter",
+    "reasoning": "Sage provides a fresh, light palette after slate-cool, paired with clean Inter for a calm, modern aesthetic."
   }
 ]

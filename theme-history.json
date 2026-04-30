@@ -22,5 +22,11 @@
     "palette": "ink-blue",
     "font": "ibm-plex",
     "reasoning": "A technical, structured pairing that shifts to a darker mood after recent light palettes while avoiding any repeats."
+  },
+  {
+    "date": "2026-04-30",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "A soft, light palette with elegant serifs provides a warm contrast to yesterday's technical blue theme."
   }
 ]

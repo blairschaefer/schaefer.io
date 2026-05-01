@@ -28,5 +28,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A soft, light palette with elegant serifs provides a warm contrast to yesterday's technical blue theme."
+  },
+  {
+    "date": "2026-05-01",
+    "palette": "linen",
+    "font": "inter",
+    "reasoning": "A light, neutral palette paired with a clean sans-serif for a fresh Friday feel after yesterday's romantic rose-quartz."
   }
 ]

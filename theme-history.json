@@ -34,5 +34,11 @@
     "palette": "linen",
     "font": "inter",
     "reasoning": "A light, neutral palette paired with a clean sans-serif for a fresh Friday feel after yesterday's romantic rose-quartz."
+  },
+  {
+    "date": "2026-05-02",
+    "palette": "midnight",
+    "font": "space-grotesk",
+    "reasoning": "After several light palettes, midnight offers a dramatic dark contrast paired with a geometric sans-serif for a sleek tech aesthetic."
   }
 ]

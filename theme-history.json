@@ -40,5 +40,11 @@
     "palette": "midnight",
     "font": "space-grotesk",
     "reasoning": "After several light palettes, midnight offers a dramatic dark contrast paired with a geometric sans-serif for a sleek tech aesthetic."
+  },
+  {
+    "date": "2026-05-03",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "After midnight's darkness, a warm Sunday palette pairs well with a sophisticated serif-sans combination."
   }
 ]

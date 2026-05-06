@@ -58,5 +58,11 @@
     "palette": "slate-cool",
     "font": "ibm-plex",
     "reasoning": "A cool-toned technical palette pairs well with IBM Plex's geometric precision, providing contrast after yesterday's organic sage theme."
+  },
+  {
+    "date": "2026-05-06",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "A soft, light palette with elegant serif pairing after yesterday's cool technical aesthetic."
   }
 ]

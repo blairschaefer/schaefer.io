@@ -64,5 +64,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A soft, light palette with elegant serif pairing after yesterday's cool technical aesthetic."
+  },
+  {
+    "date": "2026-05-07",
+    "palette": "ink-blue",
+    "font": "inter",
+    "reasoning": "Ink-blue provides a calm, moderate-dark palette after yesterday's light rose-quartz, paired with clean Inter for readability."
   }
 ]

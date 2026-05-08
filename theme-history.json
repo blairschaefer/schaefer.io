@@ -70,5 +70,11 @@
     "palette": "ink-blue",
     "font": "inter",
     "reasoning": "Ink-blue provides a calm, moderate-dark palette after yesterday's light rose-quartz, paired with clean Inter for readability."
+  },
+  {
+    "date": "2026-05-08",
+    "palette": "linen",
+    "font": "space-grotesk",
+    "reasoning": "A light, warm palette paired with a geometric sans-serif offers a fresh, modern contrast to yesterday's ink-blue."
   }
 ]

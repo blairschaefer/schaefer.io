@@ -76,5 +76,11 @@
     "palette": "linen",
     "font": "space-grotesk",
     "reasoning": "A light, warm palette paired with a geometric sans-serif offers a fresh, modern contrast to yesterday's ink-blue."
+  },
+  {
+    "date": "2026-05-09",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "Warm-paper provides a light, inviting contrast after yesterday's linen, paired with the elegant serif-sans combo of fraunces-inter for a sophisticated weekend feel."
   }
 ]

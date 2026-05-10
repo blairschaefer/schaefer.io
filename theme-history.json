@@ -82,5 +82,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "Warm-paper provides a light, inviting contrast after yesterday's linen, paired with the elegant serif-sans combo of fraunces-inter for a sophisticated weekend feel."
+  },
+  {
+    "date": "2026-05-10",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After yesterday's warm linen palette, choosing a dark sophisticated midnight theme with clean technical typography provides strong contrast."
   }
 ]

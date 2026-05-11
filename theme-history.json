@@ -88,5 +88,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After yesterday's warm linen palette, choosing a dark sophisticated midnight theme with clean technical typography provides strong contrast."
+  },
+  {
+    "date": "2026-05-11",
+    "palette": "sage",
+    "font": "system",
+    "reasoning": "Sage provides a calm, light palette after midnight's darkness, paired with clean system font for Monday minimalism."
   }
 ]

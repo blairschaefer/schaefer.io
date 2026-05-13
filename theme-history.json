@@ -100,5 +100,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serif pairing after yesterday's minimal system font, avoiding recent selections."
+  },
+  {
+    "date": "2026-05-13",
+    "palette": "slate-cool",
+    "font": "inter",
+    "reasoning": "A cool, light palette with a clean sans-serif creates a crisp, professional feel after yesterday's elegant serif combination."
   }
 ]

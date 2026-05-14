@@ -106,5 +106,11 @@
     "palette": "slate-cool",
     "font": "inter",
     "reasoning": "A cool, light palette with a clean sans-serif creates a crisp, professional feel after yesterday's elegant serif combination."
+  },
+  {
+    "date": "2026-05-14",
+    "palette": "terminal",
+    "font": "space-grotesk",
+    "reasoning": "Terminal palette offers a technical aesthetic not used recently, paired with space-grotesk for a cohesive monospaced-inspired look."
   }
 ]

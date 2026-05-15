@@ -112,5 +112,11 @@
     "palette": "terminal",
     "font": "space-grotesk",
     "reasoning": "Terminal palette offers a technical aesthetic not used recently, paired with space-grotesk for a cohesive monospaced-inspired look."
+  },
+  {
+    "date": "2026-05-15",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "Warm palette with mixed serif-sans font creates inviting Friday contrast after technical terminal theme."
   }
 ]

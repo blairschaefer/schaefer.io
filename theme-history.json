@@ -118,5 +118,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "Warm palette with mixed serif-sans font creates inviting Friday contrast after technical terminal theme."
+  },
+  {
+    "date": "2026-05-16",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "Shifting to a dark palette after several lighter days, paired with the technical elegance of IBM Plex for a sophisticated Saturday evening feel."
   }
 ]

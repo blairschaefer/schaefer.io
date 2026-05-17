@@ -124,5 +124,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "Shifting to a dark palette after several lighter days, paired with the technical elegance of IBM Plex for a sophisticated Saturday evening feel."
+  },
+  {
+    "date": "2026-05-17",
+    "palette": "sage",
+    "font": "inter",
+    "reasoning": "Sage provides a calm, light palette after yesterday's dark midnight theme, paired with the clean Inter font for a fresh, minimalist Sunday aesthetic."
   }
 ]

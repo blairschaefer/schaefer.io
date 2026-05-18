@@ -130,5 +130,11 @@
     "palette": "sage",
     "font": "inter",
     "reasoning": "Sage provides a calm, light palette after yesterday's dark midnight theme, paired with the clean Inter font for a fresh, minimalist Sunday aesthetic."
+  },
+  {
+    "date": "2026-05-18",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "A soft, light palette paired with an elegant serif to contrast yesterday's minimalist sans-serif combination and maintain variety."
   }
 ]

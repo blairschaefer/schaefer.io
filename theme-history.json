@@ -136,5 +136,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A soft, light palette paired with an elegant serif to contrast yesterday's minimalist sans-serif combination and maintain variety."
+  },
+  {
+    "date": "2026-05-19",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette with a neutral system font provides a crisp contrast to yesterday's warm rose-quartz aesthetic."
   }
 ]

@@ -148,5 +148,11 @@
     "palette": "terminal",
     "font": "space-grotesk",
     "reasoning": "A technical, monospace-inspired pairing that contrasts yesterday's cool minimalism with a darker, code-focused aesthetic."
+  },
+  {
+    "date": "2026-05-21",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, light palette with elegant serif-sans pairing to contrast yesterday's technical terminal theme."
   }
 ]

@@ -154,5 +154,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with elegant serif-sans pairing to contrast yesterday's technical terminal theme."
+  },
+  {
+    "date": "2026-05-22",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After yesterday's warm and classic look, switching to a dark technical palette with a clean monospace-inspired font provides strong contrast."
   }
 ]

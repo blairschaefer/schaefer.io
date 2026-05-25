@@ -172,5 +172,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A light, elegant palette with serif typography to contrast yesterday's minimal linen theme and provide a softer Sunday aesthetic."
+  },
+  {
+    "date": "2026-05-25",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A cool, neutral palette paired with clean system font provides a calm start to the week after yesterday's decorative rose-quartz theme."
   }
 ]

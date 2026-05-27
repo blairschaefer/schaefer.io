@@ -184,5 +184,11 @@
     "palette": "sage",
     "font": "space-grotesk",
     "reasoning": "Sage offers a calm, light palette after yesterday's cool slate, paired with the geometric clarity of Space Grotesk for a fresh, modern feel."
+  },
+  {
+    "date": "2026-05-27",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, inviting palette paired with a serif-sans combination to contrast yesterday's cool sage and geometric font."
   }
 ]

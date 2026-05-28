@@ -190,5 +190,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, inviting palette paired with a serif-sans combination to contrast yesterday's cool sage and geometric font."
+  },
+  {
+    "date": "2026-05-28",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After warm-paper yesterday, switching to a dark technical palette with a clean monospace-inspired font creates strong contrast."
   }
 ]

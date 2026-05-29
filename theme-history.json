@@ -196,5 +196,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After warm-paper yesterday, switching to a dark technical palette with a clean monospace-inspired font creates strong contrast."
+  },
+  {
+    "date": "2026-05-29",
+    "palette": "linen",
+    "font": "inter",
+    "reasoning": "Light, clean palette to contrast yesterday's dark midnight theme, paired with a crisp sans-serif for Friday simplicity."
   }
 ]

@@ -208,5 +208,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serifs provides weekend softness after yesterday's linen minimalism."
+  },
+  {
+    "date": "2026-05-31",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette paired with crisp system font balances recent warm and decorative choices."
   }
 ]

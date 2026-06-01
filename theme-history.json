@@ -214,5 +214,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette paired with crisp system font balances recent warm and decorative choices."
+  },
+  {
+    "date": "2026-06-01",
+    "palette": "sage",
+    "font": "space-grotesk",
+    "reasoning": "Sage provides a fresh, calm start to the week with a geometric sans-serif for clean readability."
   }
 ]

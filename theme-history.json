@@ -220,5 +220,11 @@
     "palette": "sage",
     "font": "space-grotesk",
     "reasoning": "Sage provides a fresh, calm start to the week with a geometric sans-serif for clean readability."
+  },
+  {
+    "date": "2026-06-02",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "Warm-paper provides a light, inviting contrast to yesterday's sage palette, paired with the elegant serif-sans combination of fraunces-inter for a balanced, readable aesthetic."
   }
 ]

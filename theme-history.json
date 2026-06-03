@@ -226,5 +226,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "Warm-paper provides a light, inviting contrast to yesterday's sage palette, paired with the elegant serif-sans combination of fraunces-inter for a balanced, readable aesthetic."
+  },
+  {
+    "date": "2026-06-03",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After five lighter palettes, midnight provides a dramatic shift with the technical clarity of IBM Plex for contrast."
   }
 ]

@@ -232,5 +232,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After five lighter palettes, midnight provides a dramatic shift with the technical clarity of IBM Plex for contrast."
+  },
+  {
+    "date": "2026-06-04",
+    "palette": "linen",
+    "font": "inter",
+    "reasoning": "Light neutral palette with clean sans-serif provides calm contrast after yesterday's dark midnight theme."
   }
 ]

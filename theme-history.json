@@ -244,5 +244,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serifs to contrast yesterday's minimal linen and provide a softer Friday aesthetic."
+  },
+  {
+    "date": "2026-06-06",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette paired with a crisp system font provides a refreshing contrast to yesterday's warm rose-quartz theme."
   }
 ]

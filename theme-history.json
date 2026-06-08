@@ -256,5 +256,11 @@
     "palette": "sage",
     "font": "space-grotesk",
     "reasoning": "Sage offers a calm, natural tone after yesterday's cool slate, paired with the geometric clarity of Space Grotesk for a fresh, balanced Sunday aesthetic."
+  },
+  {
+    "date": "2026-06-08",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, inviting palette paired with a sophisticated serif-sans combination to start the week fresh after yesterday's clean sage theme."
   }
 ]

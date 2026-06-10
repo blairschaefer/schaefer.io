@@ -268,5 +268,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "Shifting to a dark palette after several light days, pairing midnight's depth with the technical clarity of IBM Plex."
+  },
+  {
+    "date": "2026-06-10",
+    "palette": "linen",
+    "font": "inter",
+    "reasoning": "A light, neutral palette paired with a clean sans-serif to provide breathing room after yesterday's dark midnight theme."
   }
 ]

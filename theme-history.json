@@ -274,5 +274,11 @@
     "palette": "linen",
     "font": "inter",
     "reasoning": "A light, neutral palette paired with a clean sans-serif to provide breathing room after yesterday's dark midnight theme."
+  },
+  {
+    "date": "2026-06-11",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "A light, elegant palette with serif fonts creates a refined aesthetic after yesterday's minimal linen theme."
   }
 ]

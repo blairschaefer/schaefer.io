@@ -286,5 +286,11 @@
     "palette": "ink-blue",
     "font": "space-grotesk",
     "reasoning": "A technical, modern pairing that contrasts with yesterday's elegant rose-quartz and provides a cooler, focused Friday aesthetic."
+  },
+  {
+    "date": "2026-06-13",
+    "palette": "sage",
+    "font": "inter",
+    "reasoning": "Sage provides a calm, light palette contrast to yesterday's ink-blue, paired with the clean Inter font for a fresh weekend feel."
   }
 ]

@@ -292,5 +292,11 @@
     "palette": "sage",
     "font": "inter",
     "reasoning": "Sage provides a calm, light palette contrast to yesterday's ink-blue, paired with the clean Inter font for a fresh weekend feel."
+  },
+  {
+    "date": "2026-06-14",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, light palette with a serif-sans hybrid font creates an inviting Sunday aesthetic after yesterday's cooler sage tones."
   }
 ]

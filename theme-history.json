@@ -298,5 +298,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with a serif-sans hybrid font creates an inviting Sunday aesthetic after yesterday's cooler sage tones."
+  },
+  {
+    "date": "2026-06-15",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After several light palettes, midnight provides a darker contrast paired with the technical elegance of IBM Plex."
   }
 ]

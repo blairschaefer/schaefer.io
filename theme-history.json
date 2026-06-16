@@ -304,5 +304,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After several light palettes, midnight provides a darker contrast paired with the technical elegance of IBM Plex."
+  },
+  {
+    "date": "2026-06-16",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "After midnight's darkness, linen provides a light, warm contrast paired with the elegant serif Playfair for a refined Tuesday aesthetic."
   }
 ]

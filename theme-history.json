@@ -316,5 +316,11 @@
     "palette": "rose-quartz",
     "font": "inter",
     "reasoning": "A light, warm palette paired with a clean sans-serif to contrast yesterday's serif-heavy linen theme."
+  },
+  {
+    "date": "2026-06-19",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A crisp, modern pairing after yesterday's warm rose-quartz, bringing cool technical energy to end the week."
   }
 ]

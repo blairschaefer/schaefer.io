@@ -322,5 +322,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A crisp, modern pairing after yesterday's warm rose-quartz, bringing cool technical energy to end the week."
+  },
+  {
+    "date": "2026-06-20",
+    "palette": "sage",
+    "font": "ibm-plex",
+    "reasoning": "Sage offers a calm, natural aesthetic after yesterday's cool slate, paired with the technical clarity of IBM Plex for balanced weekend browsing."
   }
 ]

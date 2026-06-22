@@ -334,5 +334,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with a classic serif-sans combination to contrast yesterday's cool sage and create a welcoming Sunday feel."
+  },
+  {
+    "date": "2026-06-22",
+    "palette": "midnight",
+    "font": "system",
+    "reasoning": "After several light palettes, midnight provides a dramatic contrast paired with the clean simplicity of system font."
   }
 ]

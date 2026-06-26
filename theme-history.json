@@ -358,5 +358,11 @@
     "palette": "ink-blue",
     "font": "space-grotesk",
     "reasoning": "A cool, professional dark palette paired with a geometric sans-serif for contrast after yesterday's warm rose-quartz."
+  },
+  {
+    "date": "2026-06-26",
+    "palette": "sage",
+    "font": "ibm-plex",
+    "reasoning": "Sage provides a calm, light palette after yesterday's ink-blue, paired with the clean technical aesthetic of IBM Plex for balanced minimalism."
   }
 ]

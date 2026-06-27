@@ -1,47 +1,47 @@
 /*
  * theme.css — auto-rotated daily by .github/workflows/daily-theme.yml
- * Theme: "sage" + "ibm-plex"
- * Last updated: 2026-06-26 UTC
+ * Theme: "warm-paper" + "fraunces-inter"
+ * Last updated: 2026-06-27 UTC
  *
  * This file is overwritten by the automated daily theme rotation.
  * To change which themes are eligible, edit theme.json (not this file).
  */
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;500&display=swap');
 
 :root {
     /* Typography */
-    --font-heading: 'IBM Plex Sans', system-ui, sans-serif;
-    --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+    --font-heading: 'Fraunces', Georgia, serif;
+    --font-body: 'Inter', system-ui, sans-serif;
 
     /* Page */
-    --color-page-bg: #f6f8f5;
-    --color-text: #1f2820;
+    --color-page-bg: #fbf7f2;
+    --color-text: #2a241e;
 
     /* Card */
-    --color-card-bg: #fdfdfb;
-    --color-card-border: #dde3d7;
-    --color-card-shadow: rgba(40, 60, 40, 0.08);
+    --color-card-bg: #f5efe6;
+    --color-card-border: #e3d9c8;
+    --color-card-shadow: rgba(80, 60, 30, 0.08);
 
     /* Avatar */
-    --color-avatar-bg: #e9efe3;
-    --color-avatar-bg-hover: #dee6d6;
-    --color-avatar-border: #cdd6c4;
-    --color-avatar-border-hover: #a8b59c;
+    --color-avatar-bg: #ede4d3;
+    --color-avatar-bg-hover: #e0d4bc;
+    --color-avatar-border: #d6c8ac;
+    --color-avatar-border-hover: #bca982;
 
     /* Text hierarchy */
-    --color-heading: #11180f;
-    --color-subtitle: #5d6a55;
-    --color-body: #3a4434;
-    --color-muted: #8a9580;
+    --color-heading: #1d160d;
+    --color-subtitle: #7a6a52;
+    --color-body: #4a3f30;
+    --color-muted: #a89779;
 
     /* Links */
-    --color-link: #4a5444;
-    --color-link-hover: #11180f;
-    --color-link-border: #cdd6c4;
-    --color-link-border-hover: #a8b59c;
-    --color-link-bg-hover: #ecf0e7;
+    --color-link: #5a4a35;
+    --color-link-hover: #1d160d;
+    --color-link-border: #c9b894;
+    --color-link-border-hover: #a88f5f;
+    --color-link-bg-hover: #efe5d3;
 
     /* Decorative */
-    --color-floating: #cdd6c4;
+    --color-floating: #d6c8ac;
 }

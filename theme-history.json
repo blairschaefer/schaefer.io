@@ -370,5 +370,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with elegant serif-sans pairing to contrast yesterday's cool sage theme."
+  },
+  {
+    "date": "2026-06-28",
+    "palette": "midnight",
+    "font": "system",
+    "reasoning": "After warm-paper yesterday, switching to a dark palette with a clean system font for Sunday evening contrast."
   }
 ]

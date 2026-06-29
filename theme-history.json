@@ -376,5 +376,11 @@
     "palette": "midnight",
     "font": "system",
     "reasoning": "After warm-paper yesterday, switching to a dark palette with a clean system font for Sunday evening contrast."
+  },
+  {
+    "date": "2026-06-29",
+    "palette": "slate-cool",
+    "font": "inter",
+    "reasoning": "A cool, light palette to contrast the recent midnight darkness, paired with a clean sans-serif for professional Monday energy."
   }
 ]

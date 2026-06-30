@@ -382,5 +382,11 @@
     "palette": "slate-cool",
     "font": "inter",
     "reasoning": "A cool, light palette to contrast the recent midnight darkness, paired with a clean sans-serif for professional Monday energy."
+  },
+  {
+    "date": "2026-06-30",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "A light, warm palette with elegant serifs creates a soft, sophisticated contrast after yesterday's cool slate theme."
   }
 ]

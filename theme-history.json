@@ -388,5 +388,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serifs creates a soft, sophisticated contrast after yesterday's cool slate theme."
+  },
+  {
+    "date": "2026-07-01",
+    "palette": "terminal",
+    "font": "space-grotesk",
+    "reasoning": "Terminal palette with space-grotesk offers a technical, monospace-inspired aesthetic that contrasts nicely with yesterday's elegant rose-quartz."
   }
 ]

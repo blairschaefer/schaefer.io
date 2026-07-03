@@ -400,5 +400,11 @@
     "palette": "sage",
     "font": "ibm-plex",
     "reasoning": "A calm, light palette with a technical monospace font for a balanced Thursday aesthetic after yesterday's terminal theme."
+  },
+  {
+    "date": "2026-07-03",
+    "palette": "linen",
+    "font": "fraunces-inter",
+    "reasoning": "A light, warm palette paired with elegant serif-sans combination to contrast yesterday's sage and provide a soft Friday aesthetic."
   }
 ]

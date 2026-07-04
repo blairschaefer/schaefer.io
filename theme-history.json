@@ -406,5 +406,11 @@
     "palette": "linen",
     "font": "fraunces-inter",
     "reasoning": "A light, warm palette paired with elegant serif-sans combination to contrast yesterday's sage and provide a soft Friday aesthetic."
+  },
+  {
+    "date": "2026-07-04",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "After yesterday's light linen palette, midnight offers a darker contrast paired with the clean versatility of inter."
   }
 ]

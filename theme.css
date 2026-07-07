@@ -1,45 +1,47 @@
 /*
  * theme.css — auto-rotated daily by .github/workflows/daily-theme.yml
- * Theme: "slate-cool" + "system"
- * Last updated: 2026-07-06 UTC
+ * Theme: "rose-quartz" + "space-grotesk"
+ * Last updated: 2026-07-07 UTC
  *
  * This file is overwritten by the automated daily theme rotation.
  * To change which themes are eligible, edit theme.json (not this file).
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap');
+
 :root {
     /* Typography */
-    --font-heading: -apple-system, BlinkMacSystemFont, 'SF Pro Display', system-ui, sans-serif;
-    --font-body: -apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;
+    --font-heading: 'Space Grotesk', system-ui, sans-serif;
+    --font-body: 'Space Grotesk', system-ui, sans-serif;
 
     /* Page */
-    --color-page-bg: #f4f6f8;
-    --color-text: #1c2530;
+    --color-page-bg: #fbf6f6;
+    --color-text: #2b1f22;
 
     /* Card */
-    --color-card-bg: #ffffff;
-    --color-card-border: #dde3ea;
-    --color-card-shadow: rgba(20, 40, 60, 0.08);
+    --color-card-bg: #fdf9f9;
+    --color-card-border: #ecdcdf;
+    --color-card-shadow: rgba(80, 30, 40, 0.07);
 
     /* Avatar */
-    --color-avatar-bg: #e8edf2;
-    --color-avatar-bg-hover: #dce3ea;
-    --color-avatar-border: #cdd5de;
-    --color-avatar-border-hover: #a8b3bf;
+    --color-avatar-bg: #f3e2e6;
+    --color-avatar-bg-hover: #ead2d7;
+    --color-avatar-border: #dec2c8;
+    --color-avatar-border-hover: #bf99a2;
 
     /* Text hierarchy */
-    --color-heading: #0f1620;
-    --color-subtitle: #5c6b7a;
-    --color-body: #3a4654;
-    --color-muted: #8b97a5;
+    --color-heading: #1a1014;
+    --color-subtitle: #7a6168;
+    --color-body: #4a363c;
+    --color-muted: #a78a92;
 
     /* Links */
-    --color-link: #4a5867;
-    --color-link-hover: #0f1620;
-    --color-link-border: #cdd5de;
-    --color-link-border-hover: #a8b3bf;
-    --color-link-bg-hover: #eaeff4;
+    --color-link: #5a4248;
+    --color-link-hover: #1a1014;
+    --color-link-border: #dec2c8;
+    --color-link-border-hover: #bf99a2;
+    --color-link-bg-hover: #f3e2e6;
 
     /* Decorative */
-    --color-floating: #cdd5de;
+    --color-floating: #dec2c8;
 }

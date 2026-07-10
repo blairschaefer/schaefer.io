@@ -442,5 +442,11 @@
     "palette": "linen",
     "font": "fraunces-inter",
     "reasoning": "Linen's warm, light aesthetic pairs beautifully with the elegant serif-sans combination of Fraunces-Inter, providing a gentle contrast to yesterday's cooler sage palette."
+  },
+  {
+    "date": "2026-07-10",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "Shifting to a dark, modern palette with clean sans-serif after several light themes."
   }
 ]

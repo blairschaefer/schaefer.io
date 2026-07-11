@@ -448,5 +448,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "Shifting to a dark, modern palette with clean sans-serif after several light themes."
+  },
+  {
+    "date": "2026-07-11",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A warm, light palette with classic serif pairing provides contrast to yesterday's dark midnight theme."
   }
 ]

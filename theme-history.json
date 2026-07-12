@@ -454,5 +454,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with classic serif pairing provides contrast to yesterday's dark midnight theme."
+  },
+  {
+    "date": "2026-07-12",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "Slate-cool provides a clean, light contrast after yesterday's warm palette, paired with the crisp system font for a Sunday simplicity."
   }
 ]

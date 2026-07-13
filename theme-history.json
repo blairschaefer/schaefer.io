@@ -460,5 +460,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "Slate-cool provides a clean, light contrast after yesterday's warm palette, paired with the crisp system font for a Sunday simplicity."
+  },
+  {
+    "date": "2026-07-13",
+    "palette": "rose-quartz",
+    "font": "space-grotesk",
+    "reasoning": "A soft, warm palette paired with a geometric sans-serif offers a fresh, modern contrast after yesterday's cool slate theme."
   }
 ]

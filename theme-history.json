@@ -466,5 +466,11 @@
     "palette": "rose-quartz",
     "font": "space-grotesk",
     "reasoning": "A soft, warm palette paired with a geometric sans-serif offers a fresh, modern contrast after yesterday's cool slate theme."
+  },
+  {
+    "date": "2026-07-14",
+    "palette": "sage",
+    "font": "ibm-plex",
+    "reasoning": "Sage provides a calm, light palette after yesterday's rose-quartz, paired with the technical clarity of IBM Plex for coherent minimalist aesthetic."
   }
 ]

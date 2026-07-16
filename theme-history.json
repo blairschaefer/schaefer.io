@@ -478,5 +478,11 @@
     "palette": "linen",
     "font": "fraunces-inter",
     "reasoning": "A light, warm palette paired with a sophisticated serif-sans combination after yesterday's technical sage-ibm pairing."
+  },
+  {
+    "date": "2026-07-16",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "After several light palettes, midnight provides a dramatic dark contrast paired with the clean, modern Inter font."
   }
 ]

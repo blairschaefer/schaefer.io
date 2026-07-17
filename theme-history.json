@@ -484,5 +484,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After several light palettes, midnight provides a dramatic dark contrast paired with the clean, modern Inter font."
+  },
+  {
+    "date": "2026-07-17",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A light, warm palette with elegant serifs creates a welcoming Friday contrast to yesterday's dark midnight theme."
   }
 ]

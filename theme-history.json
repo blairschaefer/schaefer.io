@@ -496,5 +496,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A clean, technical pairing that contrasts yesterday's warm serif aesthetic with cool minimalism."
+  },
+  {
+    "date": "2026-07-19",
+    "palette": "rose-quartz",
+    "font": "ibm-plex",
+    "reasoning": "A soft, light palette after yesterday's cool slate, paired with a clean monospace-inspired font for balanced contrast."
   }
 ]

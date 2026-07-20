@@ -502,5 +502,11 @@
     "palette": "rose-quartz",
     "font": "ibm-plex",
     "reasoning": "A soft, light palette after yesterday's cool slate, paired with a clean monospace-inspired font for balanced contrast."
+  },
+  {
+    "date": "2026-07-20",
+    "palette": "sage",
+    "font": "system",
+    "reasoning": "Sage provides a calm, natural contrast to yesterday's rose-quartz, paired with clean system font for a grounded Monday aesthetic."
   }
 ]

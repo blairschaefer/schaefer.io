@@ -526,5 +526,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serif pairing after yesterday's dark midnight theme."
+  },
+  {
+    "date": "2026-07-24",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A cool, modern palette paired with a geometric sans-serif offers a crisp contrast to yesterday's warm, classical combination."
   }
 ]

@@ -538,5 +538,11 @@
     "palette": "rose-quartz",
     "font": "ibm-plex",
     "reasoning": "Rose-quartz provides a soft, light contrast after yesterday's cool slate, paired with the clean technical aesthetic of IBM Plex."
+  },
+  {
+    "date": "2026-07-26",
+    "palette": "sage",
+    "font": "system",
+    "reasoning": "Sage provides a calm, natural aesthetic that contrasts with yesterday's rose-quartz while pairing well with the clean simplicity of system font."
   }
 ]

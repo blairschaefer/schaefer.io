@@ -544,5 +544,11 @@
     "palette": "sage",
     "font": "system",
     "reasoning": "Sage provides a calm, natural aesthetic that contrasts with yesterday's rose-quartz while pairing well with the clean simplicity of system font."
+  },
+  {
+    "date": "2026-07-27",
+    "palette": "linen",
+    "font": "fraunces-inter",
+    "reasoning": "A light, warm palette paired with an elegant serif-sans combination to contrast yesterday's minimalist system font and sage palette."
   }
 ]

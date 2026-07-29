@@ -556,5 +556,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After recent light and neutral palettes, midnight brings contrast with a clean modern font pairing."
+  },
+  {
+    "date": "2026-07-29",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "After yesterday's dark midnight palette, switching to a warm, light palette with elegant serif pairing for balance."
   }
 ]

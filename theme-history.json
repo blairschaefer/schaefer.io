@@ -568,5 +568,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A cool-toned palette with a technical geometric sans-serif creates a crisp, modern contrast to yesterday's warm aesthetic."
+  },
+  {
+    "date": "2026-07-31",
+    "palette": "rose-quartz",
+    "font": "ibm-plex",
+    "reasoning": "A light, warm palette paired with a clean geometric font to balance recent dark and cool themes."
   }
 ]

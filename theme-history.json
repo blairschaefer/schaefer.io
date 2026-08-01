@@ -574,5 +574,11 @@
     "palette": "rose-quartz",
     "font": "ibm-plex",
     "reasoning": "A light, warm palette paired with a clean geometric font to balance recent dark and cool themes."
+  },
+  {
+    "date": "2026-08-01",
+    "palette": "sage",
+    "font": "fraunces-inter",
+    "reasoning": "Sage provides a calm, light palette after yesterday's rose-quartz, paired with the elegant Fraunces-Inter serif for weekend sophistication."
   }
 ]

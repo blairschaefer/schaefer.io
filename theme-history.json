@@ -1,12 +1,6 @@
 [
   {
     "date": "2026-04-29",
-    "palette": "slate-cool",
-    "font": "space-grotesk",
-    "reasoning": "A crisp, modern pairing that contrasts the previous warm palette with cool tones and a geometric sans-serif."
-  },
-  {
-    "date": "2026-04-29",
     "palette": "sage",
     "font": "inter",
     "reasoning": "Sage provides a fresh, light palette after slate-cool, paired with clean Inter for a calm, modern aesthetic."
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A cool-toned palette with a modern geometric sans-serif creates crisp contrast after yesterday's warm classical pairing."
+  },
+  {
+    "date": "2026-08-06",
+    "palette": "rose-quartz",
+    "font": "ibm-plex",
+    "reasoning": "A soft, light palette paired with a clean monospaced font to contrast yesterday's cool technical aesthetic."
   }
 ]

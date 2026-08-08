@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-04-29",
-    "palette": "ink-blue",
-    "font": "ibm-plex",
-    "reasoning": "A technical, structured pairing that shifts to a darker mood after recent light palettes while avoiding any repeats."
-  },
-  {
     "date": "2026-04-30",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "fraunces-inter",
     "reasoning": "Sage provides a fresh, light palette after yesterday's rose-quartz, paired with the elegant Fraunces-Inter combination for a calm Friday aesthetic."
+  },
+  {
+    "date": "2026-08-08",
+    "palette": "linen",
+    "font": "inter",
+    "reasoning": "A light, neutral palette paired with a clean sans-serif provides calm contrast after yesterday's organic sage-and-serif combination."
   }
 ]

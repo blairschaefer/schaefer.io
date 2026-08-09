@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-04-30",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A soft, light palette with elegant serifs provides a warm contrast to yesterday's technical blue theme."
-  },
-  {
     "date": "2026-05-01",
     "palette": "linen",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "inter",
     "reasoning": "A light, neutral palette paired with a clean sans-serif provides calm contrast after yesterday's organic sage-and-serif combination."
+  },
+  {
+    "date": "2026-08-09",
+    "palette": "midnight",
+    "font": "space-grotesk",
+    "reasoning": "After several light palettes, midnight provides contrast with a technical sans-serif that complements its modern, dark aesthetic."
   }
 ]

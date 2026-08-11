@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-02",
-    "palette": "midnight",
-    "font": "space-grotesk",
-    "reasoning": "After several light palettes, midnight offers a dramatic dark contrast paired with a geometric sans-serif for a sleek tech aesthetic."
-  },
-  {
     "date": "2026-05-03",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serifs provides contrast after yesterday's dark theme and avoids recent selections."
+  },
+  {
+    "date": "2026-08-11",
+    "palette": "slate-cool",
+    "font": "inter",
+    "reasoning": "A cool-toned palette provides contrast after yesterday's warm paper, paired with a clean sans-serif for a crisp, professional Tuesday feel."
   }
 ]

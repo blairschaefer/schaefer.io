@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "After midnight's darkness, a warm Sunday palette pairs well with a sophisticated serif-sans combination."
-  },
-  {
     "date": "2026-05-04",
     "palette": "sage",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "inter",
     "reasoning": "A cool-toned palette provides contrast after yesterday's warm paper, paired with a clean sans-serif for a crisp, professional Tuesday feel."
+  },
+  {
+    "date": "2026-08-12",
+    "palette": "ink-blue",
+    "font": "ibm-plex",
+    "reasoning": "Following the light slate-cool with a moderately dark palette, paired with the technical clarity of IBM Plex for coherent professionalism."
   }
 ]

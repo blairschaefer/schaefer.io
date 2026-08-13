@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-04",
-    "palette": "sage",
-    "font": "system",
-    "reasoning": "Sage provides a calm, light palette after yesterday's warm tones, paired with clean system font for understated Monday minimalism."
-  },
-  {
     "date": "2026-05-05",
     "palette": "slate-cool",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "ink-blue",
     "font": "ibm-plex",
     "reasoning": "Following the light slate-cool with a moderately dark palette, paired with the technical clarity of IBM Plex for coherent professionalism."
+  },
+  {
+    "date": "2026-08-13",
+    "palette": "sage",
+    "font": "fraunces-inter",
+    "reasoning": "Sage provides a calm, light palette after yesterday's darker ink-blue, paired with the elegant Fraunces-Inter combination for a sophisticated but approachable feel."
   }
 ]

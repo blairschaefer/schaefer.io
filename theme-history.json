@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-05",
-    "palette": "slate-cool",
-    "font": "ibm-plex",
-    "reasoning": "A cool-toned technical palette pairs well with IBM Plex's geometric precision, providing contrast after yesterday's organic sage theme."
-  },
-  {
     "date": "2026-05-06",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "fraunces-inter",
     "reasoning": "Sage provides a calm, light palette after yesterday's darker ink-blue, paired with the elegant Fraunces-Inter combination for a sophisticated but approachable feel."
+  },
+  {
+    "date": "2026-08-14",
+    "palette": "rose-quartz",
+    "font": "space-grotesk",
+    "reasoning": "A soft, light palette paired with a geometric sans-serif for a fresh Friday feel after yesterday's organic serif combination."
   }
 ]

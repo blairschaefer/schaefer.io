@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-06",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A soft, light palette with elegant serif pairing after yesterday's cool technical aesthetic."
-  },
-  {
     "date": "2026-05-07",
     "palette": "ink-blue",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "space-grotesk",
     "reasoning": "A soft, light palette paired with a geometric sans-serif for a fresh Friday feel after yesterday's organic serif combination."
+  },
+  {
+    "date": "2026-08-15",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "After yesterday's soft rose-quartz, a dark sophisticated midnight palette pairs well with clean Inter for weekend contrast."
   }
 ]

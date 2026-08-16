@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-07",
-    "palette": "ink-blue",
-    "font": "inter",
-    "reasoning": "Ink-blue provides a calm, moderate-dark palette after yesterday's light rose-quartz, paired with clean Inter for readability."
-  },
-  {
     "date": "2026-05-08",
     "palette": "linen",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After yesterday's soft rose-quartz, a dark sophisticated midnight palette pairs well with clean Inter for weekend contrast."
+  },
+  {
+    "date": "2026-08-16",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "After midnight's darkness, linen provides a light, warm contrast paired with elegant serifs for Sunday."
   }
 ]

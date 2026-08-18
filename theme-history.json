@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "Warm-paper provides a light, inviting contrast after yesterday's linen, paired with the elegant serif-sans combo of fraunces-inter for a sophisticated weekend feel."
-  },
-  {
     "date": "2026-05-10",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "charcoal",
     "font": "system",
     "reasoning": "After a light linen palette yesterday, charcoal provides dark contrast with clean system font for Monday minimalism."
+  },
+  {
+    "date": "2026-08-18",
+    "palette": "slate-cool",
+    "font": "ibm-plex",
+    "reasoning": "After yesterday's dark charcoal, switching to a cooler medium-toned palette with a technical monospace-inspired font for variety."
   }
 ]

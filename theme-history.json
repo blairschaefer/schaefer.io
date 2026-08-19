@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-10",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "After yesterday's warm linen palette, choosing a dark sophisticated midnight theme with clean technical typography provides strong contrast."
-  },
-  {
     "date": "2026-05-11",
     "palette": "sage",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "ibm-plex",
     "reasoning": "After yesterday's dark charcoal, switching to a cooler medium-toned palette with a technical monospace-inspired font for variety."
+  },
+  {
+    "date": "2026-08-19",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "Shifting to a warm, light palette after recent cool/dark themes, paired with a serif-sans combo for editorial warmth."
   }
 ]

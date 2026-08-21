@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A light, warm palette with elegant serif pairing after yesterday's minimal system font, avoiding recent selections."
-  },
-  {
     "date": "2026-05-13",
     "palette": "slate-cool",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "space-grotesk",
     "reasoning": "Sage provides a light, natural palette after yesterday's warm-paper, paired with space-grotesk for a clean, modern geometric contrast."
+  },
+  {
+    "date": "2026-08-21",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "After yesterday's light sage palette, shifting to a dark midnight theme pairs well with the clean, modern Inter font for a sophisticated Friday evening aesthetic."
   }
 ]

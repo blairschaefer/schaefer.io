@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-13",
-    "palette": "slate-cool",
-    "font": "inter",
-    "reasoning": "A cool, light palette with a clean sans-serif creates a crisp, professional feel after yesterday's elegant serif combination."
-  },
-  {
     "date": "2026-05-14",
     "palette": "terminal",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After yesterday's light sage palette, shifting to a dark midnight theme pairs well with the clean, modern Inter font for a sophisticated Friday evening aesthetic."
+  },
+  {
+    "date": "2026-08-22",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "A light, warm palette paired with an elegant serif to contrast yesterday's dark midnight theme and avoid recent selections."
   }
 ]

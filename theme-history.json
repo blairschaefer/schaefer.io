@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-14",
-    "palette": "terminal",
-    "font": "space-grotesk",
-    "reasoning": "Terminal palette offers a technical aesthetic not used recently, paired with space-grotesk for a cohesive monospaced-inspired look."
-  },
-  {
     "date": "2026-05-15",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "playfair-source",
     "reasoning": "A light, warm palette paired with an elegant serif to contrast yesterday's dark midnight theme and avoid recent selections."
+  },
+  {
+    "date": "2026-08-23",
+    "palette": "rose-quartz",
+    "font": "system",
+    "reasoning": "A soft, light palette paired with clean system font for Sunday simplicity after yesterday's elegant serif."
   }
 ]

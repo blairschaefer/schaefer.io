@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-15",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "Warm palette with mixed serif-sans font creates inviting Friday contrast after technical terminal theme."
-  },
-  {
     "date": "2026-05-16",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "system",
     "reasoning": "A soft, light palette paired with clean system font for Sunday simplicity after yesterday's elegant serif."
+  },
+  {
+    "date": "2026-08-24",
+    "palette": "ink-blue",
+    "font": "ibm-plex",
+    "reasoning": "A technical, structured pairing that shifts to a darker palette after yesterday's light rose-quartz while avoiding recent selections."
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-16",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "Shifting to a dark palette after several lighter days, paired with the technical elegance of IBM Plex for a sophisticated Saturday evening feel."
-  },
-  {
     "date": "2026-05-17",
     "palette": "sage",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "ink-blue",
     "font": "ibm-plex",
     "reasoning": "A technical, structured pairing that shifts to a darker palette after yesterday's light rose-quartz while avoiding recent selections."
+  },
+  {
+    "date": "2026-08-25",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, light palette with elegant serif-sans pairing after yesterday's cooler ink-blue theme."
   }
 ]

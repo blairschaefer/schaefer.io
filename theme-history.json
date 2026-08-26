@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-17",
-    "palette": "sage",
-    "font": "inter",
-    "reasoning": "Sage provides a calm, light palette after yesterday's dark midnight theme, paired with the clean Inter font for a fresh, minimalist Sunday aesthetic."
-  },
-  {
     "date": "2026-05-18",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with elegant serif-sans pairing after yesterday's cooler ink-blue theme."
+  },
+  {
+    "date": "2026-08-26",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A cool, modern combination that contrasts yesterday's warm palette while avoiding recent selections."
   }
 ]

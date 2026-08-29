@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-20",
-    "palette": "terminal",
-    "font": "space-grotesk",
-    "reasoning": "A technical, monospace-inspired pairing that contrasts yesterday's cool minimalism with a darker, code-focused aesthetic."
-  },
-  {
     "date": "2026-05-21",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "playfair-source",
     "reasoning": "Shifting to a dark, elegant palette with sophisticated serif pairing after several lighter days."
+  },
+  {
+    "date": "2026-08-29",
+    "palette": "rose-quartz",
+    "font": "system",
+    "reasoning": "Choosing a light, warm palette after yesterday's dark midnight theme, paired with clean system fonts for weekend simplicity."
   }
 ]

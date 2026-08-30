@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-21",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "A warm, light palette with elegant serif-sans pairing to contrast yesterday's technical terminal theme."
-  },
-  {
     "date": "2026-05-22",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "system",
     "reasoning": "Choosing a light, warm palette after yesterday's dark midnight theme, paired with clean system fonts for weekend simplicity."
+  },
+  {
+    "date": "2026-08-30",
+    "palette": "linen",
+    "font": "ibm-plex",
+    "reasoning": "A light, warm palette paired with a clean monospaced-inspired sans-serif creates a fresh technical-meets-organic aesthetic after yesterday's softer rose-quartz."
   }
 ]

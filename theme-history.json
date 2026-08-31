@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "After yesterday's warm and classic look, switching to a dark technical palette with a clean monospace-inspired font provides strong contrast."
-  },
-  {
     "date": "2026-05-23",
     "palette": "linen",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "ibm-plex",
     "reasoning": "A light, warm palette paired with a clean monospaced-inspired sans-serif creates a fresh technical-meets-organic aesthetic after yesterday's softer rose-quartz."
+  },
+  {
+    "date": "2026-08-31",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, light palette with a serif-sans combination after yesterday's linen provides gentle contrast and Monday morning warmth."
   }
 ]

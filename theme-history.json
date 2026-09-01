@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-23",
-    "palette": "linen",
-    "font": "inter",
-    "reasoning": "A light, calm palette paired with a clean sans-serif to balance yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-05-24",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with a serif-sans combination after yesterday's linen provides gentle contrast and Monday morning warmth."
+  },
+  {
+    "date": "2026-09-01",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A cool-toned palette with a modern geometric sans-serif for a fresh start to September, contrasting yesterday's warm paper aesthetic."
   }
 ]

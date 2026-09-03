@@ -9,7 +9,7 @@ The site rotates its color palette and typography automatically once a day. A Gi
 | File | Purpose | Touched by automation? |
 |---|---|---|
 | `index.html` | Site structure & layout | No |
-| `avatar.png` | Profile image | No |
+| `avatar.jpg` | Profile image | No |
 | `theme.css` | Active colors & fonts (CSS variables) | **Yes** — overwritten daily |
 | `theme.json` | Curated palettes & font pairings (the variation space) | No |
 | `theme-history.json` | Record of recent selections | **Yes** — appended daily |

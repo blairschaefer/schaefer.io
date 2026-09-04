@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-25",
-    "palette": "slate-cool",
-    "font": "system",
-    "reasoning": "A cool, neutral palette paired with clean system font provides a calm start to the week after yesterday's decorative rose-quartz theme."
-  },
-  {
     "date": "2026-05-26",
     "palette": "sage",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "inter",
     "reasoning": "Sage provides a calm, light palette after yesterday's cool slate, paired with clean Inter for a fresh, approachable Wednesday aesthetic."
+  },
+  {
+    "date": "2026-09-04",
+    "palette": "midnight",
+    "font": "playfair-source",
+    "reasoning": "Elegant serif pairing with a dark palette after several lighter days, avoiding recent selections."
   }
 ]

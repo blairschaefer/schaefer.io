@@ -1,47 +1,47 @@
 /*
  * theme.css — auto-rotated daily by .github/workflows/daily-theme.yml
- * Theme: "midnight" + "playfair-source"
- * Last updated: 2026-09-04 UTC
+ * Theme: "charcoal" + "ibm-plex"
+ * Last updated: 2026-09-05 UTC
  *
  * This file is overwritten by the automated daily theme rotation.
  * To change which themes are eligible, edit theme.json (not this file).
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap');
 
 :root {
     /* Typography */
-    --font-heading: 'Playfair Display', Georgia, serif;
-    --font-body: 'Source Sans 3', system-ui, sans-serif;
+    --font-heading: 'IBM Plex Sans', system-ui, sans-serif;
+    --font-body: 'IBM Plex Sans', system-ui, sans-serif;
 
     /* Page */
-    --color-page-bg: #0d1117;
-    --color-text: #e6edf3;
+    --color-page-bg: #1a1a1a;
+    --color-text: #e8e8e8;
 
     /* Card */
-    --color-card-bg: #161b22;
-    --color-card-border: #30363d;
-    --color-card-shadow: rgba(0, 0, 0, 0.4);
+    --color-card-bg: #242424;
+    --color-card-border: #3a3a3a;
+    --color-card-shadow: rgba(0, 0, 0, 0.5);
 
     /* Avatar */
-    --color-avatar-bg: #21262d;
-    --color-avatar-bg-hover: #2d333b;
-    --color-avatar-border: #30363d;
-    --color-avatar-border-hover: #484f58;
+    --color-avatar-bg: #2e2e2e;
+    --color-avatar-bg-hover: #383838;
+    --color-avatar-border: #3a3a3a;
+    --color-avatar-border-hover: #525252;
 
     /* Text hierarchy */
-    --color-heading: #f0f6fc;
-    --color-subtitle: #8b949e;
-    --color-body: #c9d1d9;
-    --color-muted: #6e7681;
+    --color-heading: #ffffff;
+    --color-subtitle: #9a9a9a;
+    --color-body: #c8c8c8;
+    --color-muted: #707070;
 
     /* Links */
-    --color-link: #b1bac4;
+    --color-link: #b0b0b0;
     --color-link-hover: #ffffff;
-    --color-link-border: #30363d;
-    --color-link-border-hover: #6e7681;
-    --color-link-bg-hover: #21262d;
+    --color-link-border: #3a3a3a;
+    --color-link-border-hover: #707070;
+    --color-link-bg-hover: #2e2e2e;
 
     /* Decorative */
-    --color-floating: #30363d;
+    --color-floating: #3a3a3a;
 }

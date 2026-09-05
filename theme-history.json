@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-26",
-    "palette": "sage",
-    "font": "space-grotesk",
-    "reasoning": "Sage offers a calm, light palette after yesterday's cool slate, paired with the geometric clarity of Space Grotesk for a fresh, modern feel."
-  },
-  {
     "date": "2026-05-27",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "playfair-source",
     "reasoning": "Elegant serif pairing with a dark palette after several lighter days, avoiding recent selections."
+  },
+  {
+    "date": "2026-09-05",
+    "palette": "charcoal",
+    "font": "ibm-plex",
+    "reasoning": "After sage's lightness and midnight's drama, charcoal offers a balanced dark sophistication that pairs well with the technical clarity of IBM Plex."
   }
 ]

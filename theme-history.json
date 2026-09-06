@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-27",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "A warm, inviting palette paired with a serif-sans combination to contrast yesterday's cool sage and geometric font."
-  },
-  {
     "date": "2026-05-28",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "charcoal",
     "font": "ibm-plex",
     "reasoning": "After sage's lightness and midnight's drama, charcoal offers a balanced dark sophistication that pairs well with the technical clarity of IBM Plex."
+  },
+  {
+    "date": "2026-09-06",
+    "palette": "linen",
+    "font": "fraunces-inter",
+    "reasoning": "After two dark palettes, choosing a light linen palette with elegant serif font creates a warm, readable Sunday aesthetic."
   }
 ]

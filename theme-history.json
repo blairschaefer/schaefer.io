@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "After warm-paper yesterday, switching to a dark technical palette with a clean monospace-inspired font creates strong contrast."
-  },
-  {
     "date": "2026-05-29",
     "palette": "linen",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "fraunces-inter",
     "reasoning": "After two dark palettes, choosing a light linen palette with elegant serif font creates a warm, readable Sunday aesthetic."
+  },
+  {
+    "date": "2026-09-07",
+    "palette": "ink-blue",
+    "font": "space-grotesk",
+    "reasoning": "After the warm linen yesterday, ink-blue provides a cool, medium-dark contrast while space-grotesk offers a modern geometric feel distinct from the last two days' serif-heavy choices."
   }
 ]

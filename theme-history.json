@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-29",
-    "palette": "linen",
-    "font": "inter",
-    "reasoning": "Light, clean palette to contrast yesterday's dark midnight theme, paired with a crisp sans-serif for Friday simplicity."
-  },
-  {
     "date": "2026-05-30",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "ink-blue",
     "font": "space-grotesk",
     "reasoning": "After the warm linen yesterday, ink-blue provides a cool, medium-dark contrast while space-grotesk offers a modern geometric feel distinct from the last two days' serif-heavy choices."
+  },
+  {
+    "date": "2026-09-08",
+    "palette": "rose-quartz",
+    "font": "inter",
+    "reasoning": "After several darker palettes, rose-quartz provides a light, warm contrast and pairs well with the clean neutrality of Inter."
   }
 ]

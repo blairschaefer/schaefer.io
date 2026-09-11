@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "palette": "slate-cool",
-    "font": "system",
-    "reasoning": "A clean, cool-toned palette paired with crisp system font balances recent warm and decorative choices."
-  },
-  {
     "date": "2026-06-01",
     "palette": "sage",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "playfair-source",
     "reasoning": "Sage provides a calm, natural aesthetic after yesterday's rose-quartz, pairing well with the elegant serif Playfair."
+  },
+  {
+    "date": "2026-09-11",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "Terminal palette offers a technical, high-contrast aesthetic that pairs well with the monospaced-inspired IBM Plex, creating a distinct shift from yesterday's natural sage theme."
   }
 ]

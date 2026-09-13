@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "Warm-paper provides a light, inviting contrast to yesterday's sage palette, paired with the elegant serif-sans combination of fraunces-inter for a balanced, readable aesthetic."
-  },
-  {
     "date": "2026-06-03",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "After yesterday's technical terminal palette, warm-paper with fraunces-inter brings a cozy, readable serif combination for weekend browsing."
+  },
+  {
+    "date": "2026-09-13",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette paired with system font for a crisp, professional Sunday aesthetic after yesterday's warm, literary combination."
   }
 ]

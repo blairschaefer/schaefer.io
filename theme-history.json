@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "After five lighter palettes, midnight provides a dramatic shift with the technical clarity of IBM Plex for contrast."
-  },
-  {
     "date": "2026-06-04",
     "palette": "linen",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette paired with system font for a crisp, professional Sunday aesthetic after yesterday's warm, literary combination."
+  },
+  {
+    "date": "2026-09-14",
+    "palette": "midnight",
+    "font": "space-grotesk",
+    "reasoning": "After yesterday's light slate-cool palette, shifting to a dark midnight theme paired with geometric space-grotesk creates a modern, focused Monday atmosphere."
   }
 ]

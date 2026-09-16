@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A light, warm palette with elegant serifs to contrast yesterday's minimal linen and provide a softer Friday aesthetic."
-  },
-  {
     "date": "2026-06-06",
     "palette": "slate-cool",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "inter",
     "reasoning": "A light, warm palette after yesterday's dark midnight theme, paired with a clean sans-serif for modern elegance."
+  },
+  {
+    "date": "2026-09-16",
+    "palette": "sage",
+    "font": "playfair-source",
+    "reasoning": "Sage provides a calm, light palette after yesterday's rose-quartz, paired with elegant serif Playfair for a sophisticated, natural aesthetic."
   }
 ]

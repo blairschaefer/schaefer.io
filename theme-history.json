@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-06",
-    "palette": "slate-cool",
-    "font": "system",
-    "reasoning": "A clean, cool-toned palette paired with a crisp system font provides a refreshing contrast to yesterday's warm rose-quartz theme."
-  },
-  {
     "date": "2026-06-07",
     "palette": "sage",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "playfair-source",
     "reasoning": "Sage provides a calm, light palette after yesterday's rose-quartz, paired with elegant serif Playfair for a sophisticated, natural aesthetic."
+  },
+  {
+    "date": "2026-09-17",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "A technical monospace pairing that contrasts yesterday's elegant serif while avoiding recent palettes and maintaining variety with a distinct techy aesthetic."
   }
 ]

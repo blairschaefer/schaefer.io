@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-07",
-    "palette": "sage",
-    "font": "space-grotesk",
-    "reasoning": "Sage offers a calm, natural tone after yesterday's cool slate, paired with the geometric clarity of Space Grotesk for a fresh, balanced Sunday aesthetic."
-  },
-  {
     "date": "2026-06-08",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "terminal",
     "font": "ibm-plex",
     "reasoning": "A technical monospace pairing that contrasts yesterday's elegant serif while avoiding recent palettes and maintaining variety with a distinct techy aesthetic."
+  },
+  {
+    "date": "2026-09-18",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "A warm, light palette paired with a serif-sans combo offers a welcoming Friday feeling after yesterday's technical terminal theme."
   }
 ]

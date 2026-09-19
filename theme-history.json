@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "A warm, inviting palette paired with a sophisticated serif-sans combination to start the week fresh after yesterday's clean sage theme."
-  },
-  {
     "date": "2026-06-09",
     "palette": "midnight",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette paired with a serif-sans combo offers a welcoming Friday feeling after yesterday's technical terminal theme."
+  },
+  {
+    "date": "2026-09-19",
+    "palette": "ink-blue",
+    "font": "inter",
+    "reasoning": "A calm, medium-dark palette paired with a clean sans-serif to balance recent warm and technical themes while avoiding last 5 days' palettes and last 2 days' fonts."
   }
 ]

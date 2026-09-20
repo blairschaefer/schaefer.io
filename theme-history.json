@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-09",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "Shifting to a dark palette after several light days, pairing midnight's depth with the technical clarity of IBM Plex."
-  },
-  {
     "date": "2026-06-10",
     "palette": "linen",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "ink-blue",
     "font": "inter",
     "reasoning": "A calm, medium-dark palette paired with a clean sans-serif to balance recent warm and technical themes while avoiding last 5 days' palettes and last 2 days' fonts."
+  },
+  {
+    "date": "2026-09-20",
+    "palette": "charcoal",
+    "font": "space-grotesk",
+    "reasoning": "A dark, modern palette with geometric sans-serif font for Sunday evening, contrasting yesterday's lighter ink-blue while avoiding recent selections."
   }
 ]

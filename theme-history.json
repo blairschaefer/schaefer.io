@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-10",
-    "palette": "linen",
-    "font": "inter",
-    "reasoning": "A light, neutral palette paired with a clean sans-serif to provide breathing room after yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-06-11",
     "palette": "rose-quartz",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "charcoal",
     "font": "space-grotesk",
     "reasoning": "A dark, modern palette with geometric sans-serif font for Sunday evening, contrasting yesterday's lighter ink-blue while avoiding recent selections."
+  },
+  {
+    "date": "2026-09-21",
+    "palette": "rose-quartz",
+    "font": "playfair-source",
+    "reasoning": "After darker palettes charcoal and ink-blue, rose-quartz brings warmth and the serif pairing creates an elegant Monday mood."
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-11",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A light, elegant palette with serif fonts creates a refined aesthetic after yesterday's minimal linen theme."
-  },
-  {
     "date": "2026-06-12",
     "palette": "ink-blue",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "playfair-source",
     "reasoning": "After darker palettes charcoal and ink-blue, rose-quartz brings warmth and the serif pairing creates an elegant Monday mood."
+  },
+  {
+    "date": "2026-09-22",
+    "palette": "sage",
+    "font": "inter",
+    "reasoning": "Sage provides a light, natural palette after yesterday's rose-quartz, paired with the clean Inter font for a fresh, minimalist Tuesday aesthetic."
   }
 ]

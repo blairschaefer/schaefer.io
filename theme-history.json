@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "palette": "sage",
-    "font": "inter",
-    "reasoning": "Sage provides a calm, light palette contrast to yesterday's ink-blue, paired with the clean Inter font for a fresh weekend feel."
-  },
-  {
     "date": "2026-06-14",
     "palette": "warm-paper",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After yesterday's light sage palette, shifting to a dark midnight theme with clean monospace-inspired IBM Plex creates strong contrast and technical elegance."
+  },
+  {
+    "date": "2026-09-24",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "Switching to a light, warm palette after yesterday's dark midnight theme, paired with a serif-sans combination for elegant readability."
   }
 ]

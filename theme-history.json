@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "palette": "midnight",
-    "font": "ibm-plex",
-    "reasoning": "After several light palettes, midnight provides a darker contrast paired with the technical elegance of IBM Plex."
-  },
-  {
     "date": "2026-06-16",
     "palette": "linen",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A clean, modern pairing that shifts to cooler tones after yesterday's warm palette while avoiding recent selections."
+  },
+  {
+    "date": "2026-09-26",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "A light, warm palette with elegant serif font to contrast yesterday's cool, technical aesthetic."
   }
 ]

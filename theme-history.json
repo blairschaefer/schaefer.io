@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-16",
-    "palette": "linen",
-    "font": "playfair-source",
-    "reasoning": "After midnight's darkness, linen provides a light, warm contrast paired with the elegant serif Playfair for a refined Tuesday aesthetic."
-  },
-  {
     "date": "2026-06-18",
     "palette": "rose-quartz",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serif font to contrast yesterday's cool, technical aesthetic."
+  },
+  {
+    "date": "2026-09-27",
+    "palette": "rose-quartz",
+    "font": "inter",
+    "reasoning": "A soft, light palette paired with a clean sans-serif to contrast yesterday's serif choice and maintain visual freshness."
   }
 ]

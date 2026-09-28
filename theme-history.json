@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "palette": "rose-quartz",
-    "font": "inter",
-    "reasoning": "A light, warm palette paired with a clean sans-serif to contrast yesterday's serif-heavy linen theme."
-  },
-  {
     "date": "2026-06-19",
     "palette": "slate-cool",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "inter",
     "reasoning": "A soft, light palette paired with a clean sans-serif to contrast yesterday's serif choice and maintain visual freshness."
+  },
+  {
+    "date": "2026-09-28",
+    "palette": "sage",
+    "font": "system",
+    "reasoning": "Sage offers a calm, natural aesthetic not used in the last 5 days, paired with the clean system font for a grounded Monday start."
   }
 ]

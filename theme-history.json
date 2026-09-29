@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-19",
-    "palette": "slate-cool",
-    "font": "space-grotesk",
-    "reasoning": "A crisp, modern pairing after yesterday's warm rose-quartz, bringing cool technical energy to end the week."
-  },
-  {
     "date": "2026-06-20",
     "palette": "sage",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "system",
     "reasoning": "Sage offers a calm, natural aesthetic not used in the last 5 days, paired with the clean system font for a grounded Monday start."
+  },
+  {
+    "date": "2026-09-29",
+    "palette": "midnight",
+    "font": "ibm-plex",
+    "reasoning": "After several light palettes, midnight provides a dark contrast paired with the technical clarity of ibm-plex for a focused evening aesthetic."
   }
 ]

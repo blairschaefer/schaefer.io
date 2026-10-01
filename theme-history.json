@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-21",
-    "palette": "warm-paper",
-    "font": "fraunces-inter",
-    "reasoning": "A warm, light palette with a classic serif-sans combination to contrast yesterday's cool sage and create a welcoming Sunday feel."
-  },
-  {
     "date": "2026-06-22",
     "palette": "midnight",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "A warm, light palette with elegant serif-sans pairing to contrast yesterday's dark midnight theme."
+  },
+  {
+    "date": "2026-10-01",
+    "palette": "slate-cool",
+    "font": "space-grotesk",
+    "reasoning": "A cool, light palette with a clean geometric font balances yesterday's warm tones and avoids recent selections."
   }
 ]

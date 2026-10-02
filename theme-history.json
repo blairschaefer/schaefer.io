@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-22",
-    "palette": "midnight",
-    "font": "system",
-    "reasoning": "After several light palettes, midnight provides a dramatic contrast paired with the clean simplicity of system font."
-  },
-  {
     "date": "2026-06-23",
     "palette": "linen",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "space-grotesk",
     "reasoning": "A cool, light palette with a clean geometric font balances yesterday's warm tones and avoids recent selections."
+  },
+  {
+    "date": "2026-10-02",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "A light, warm palette with elegant serif pairing after yesterday's cool minimal look."
   }
 ]

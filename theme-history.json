@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-25",
-    "palette": "ink-blue",
-    "font": "space-grotesk",
-    "reasoning": "A cool, professional dark palette paired with a geometric sans-serif for contrast after yesterday's warm rose-quartz."
-  },
-  {
     "date": "2026-06-26",
     "palette": "sage",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "system",
     "reasoning": "Sage offers a calm, natural light palette to balance the recent lighter tones, paired with clean system font for Sunday simplicity."
+  },
+  {
+    "date": "2026-10-06",
+    "palette": "midnight",
+    "font": "space-grotesk",
+    "reasoning": "After several light palettes, midnight provides a dramatic shift with a modern geometric font pairing."
   }
 ]

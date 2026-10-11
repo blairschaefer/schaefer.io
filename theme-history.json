@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-30",
-    "palette": "rose-quartz",
-    "font": "playfair-source",
-    "reasoning": "A light, warm palette with elegant serifs creates a soft, sophisticated contrast after yesterday's cool slate theme."
-  },
-  {
     "date": "2026-07-01",
     "palette": "terminal",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "inter",
     "reasoning": "Rose-quartz provides a light, warm contrast after yesterday's linen, paired with clean Inter for a modern, approachable Saturday aesthetic."
+  },
+  {
+    "date": "2026-10-11",
+    "palette": "sage",
+    "font": "space-grotesk",
+    "reasoning": "Sage offers a calm, natural tone distinct from recent choices, paired with space-grotesk for a clean, modern Sunday feel."
   }
 ]

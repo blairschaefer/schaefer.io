@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-02",
-    "palette": "sage",
-    "font": "ibm-plex",
-    "reasoning": "A calm, light palette with a technical monospace font for a balanced Thursday aesthetic after yesterday's terminal theme."
-  },
-  {
     "date": "2026-07-03",
     "palette": "linen",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "ibm-plex",
     "reasoning": "After five lighter palettes, switching to a darker mood with a technical monospace-friendly pairing for Monday focus."
+  },
+  {
+    "date": "2026-10-13",
+    "palette": "warm-paper",
+    "font": "fraunces-inter",
+    "reasoning": "After yesterday's dark midnight palette, switching to a warm, light aesthetic with a serif-sans combination for visual warmth and readability."
   }
 ]

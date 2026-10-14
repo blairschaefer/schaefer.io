@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "palette": "linen",
-    "font": "fraunces-inter",
-    "reasoning": "A light, warm palette paired with elegant serif-sans combination to contrast yesterday's sage and provide a soft Friday aesthetic."
-  },
-  {
     "date": "2026-07-04",
     "palette": "midnight",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "fraunces-inter",
     "reasoning": "After yesterday's dark midnight palette, switching to a warm, light aesthetic with a serif-sans combination for visual warmth and readability."
+  },
+  {
+    "date": "2026-10-14",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette paired with system font provides a crisp, professional contrast to yesterday's warm paper aesthetic."
   }
 ]

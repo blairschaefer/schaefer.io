@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "A warm, light palette with elegant serif font provides Sunday relaxation after yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-07-06",
     "palette": "slate-cool",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "playfair-source",
     "reasoning": "A light, warm palette with elegant serifs provides contrast to yesterday's cool system font while avoiding recent selections."
+  },
+  {
+    "date": "2026-10-16",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "Terminal palette offers a technical contrast after yesterday's soft linen, while IBM Plex monospace complements the coding aesthetic and wasn't used yesterday or today."
   }
 ]

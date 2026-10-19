@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "palette": "sage",
-    "font": "ibm-plex",
-    "reasoning": "Sage offers a calm, light palette after yesterday's rose-quartz, paired with the technical clarity of IBM Plex for a balanced, fresh aesthetic."
-  },
-  {
     "date": "2026-07-09",
     "palette": "linen",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "A dark palette to contrast yesterday's light rose-quartz, paired with clean Inter for modern minimalist coherence."
+  },
+  {
+    "date": "2026-10-19",
+    "palette": "sage",
+    "font": "fraunces-inter",
+    "reasoning": "Sage provides a light, natural palette after yesterday's dark midnight, paired with the elegant Fraunces-Inter combination for a refined Monday start."
   }
 ]

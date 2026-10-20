@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-09",
-    "palette": "linen",
-    "font": "fraunces-inter",
-    "reasoning": "Linen's warm, light aesthetic pairs beautifully with the elegant serif-sans combination of Fraunces-Inter, providing a gentle contrast to yesterday's cooler sage palette."
-  },
-  {
     "date": "2026-07-10",
     "palette": "midnight",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "fraunces-inter",
     "reasoning": "Sage provides a light, natural palette after yesterday's dark midnight, paired with the elegant Fraunces-Inter combination for a refined Monday start."
+  },
+  {
+    "date": "2026-10-20",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A clean, cool-toned palette pairs well with the native system font for a crisp, professional Tuesday aesthetic."
   }
 ]

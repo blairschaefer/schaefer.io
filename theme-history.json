@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-10",
-    "palette": "midnight",
-    "font": "inter",
-    "reasoning": "Shifting to a dark, modern palette with clean sans-serif after several light themes."
-  },
-  {
     "date": "2026-07-11",
     "palette": "warm-paper",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette pairs well with the native system font for a crisp, professional Tuesday aesthetic."
+  },
+  {
+    "date": "2026-10-21",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A warm, light palette with elegant serifs provides a cozy contrast to yesterday's cool minimalism."
   }
 ]

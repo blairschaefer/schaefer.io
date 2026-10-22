@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-11",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "A warm, light palette with classic serif pairing provides contrast to yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-07-12",
     "palette": "slate-cool",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serifs provides a cozy contrast to yesterday's cool minimalism."
+  },
+  {
+    "date": "2026-10-22",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "Selecting a technical, monospace aesthetic after recent warm and natural tones to provide strong contrast and variety."
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-12",
-    "palette": "slate-cool",
-    "font": "system",
-    "reasoning": "Slate-cool provides a clean, light contrast after yesterday's warm palette, paired with the crisp system font for a Sunday simplicity."
-  },
-  {
     "date": "2026-07-13",
     "palette": "rose-quartz",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "terminal",
     "font": "ibm-plex",
     "reasoning": "Selecting a technical, monospace aesthetic after recent warm and natural tones to provide strong contrast and variety."
+  },
+  {
+    "date": "2026-10-23",
+    "palette": "rose-quartz",
+    "font": "space-grotesk",
+    "reasoning": "A soft, light palette paired with a geometric sans-serif to balance recent darker themes and avoid repetition."
   }
 ]

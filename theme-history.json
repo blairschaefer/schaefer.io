@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-16",
-    "palette": "midnight",
-    "font": "inter",
-    "reasoning": "After several light palettes, midnight provides a dramatic dark contrast paired with the clean, modern Inter font."
-  },
-  {
     "date": "2026-07-17",
     "palette": "warm-paper",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette paired with system font for maximum minimalism after yesterday's warmer linen theme."
+  },
+  {
+    "date": "2026-10-27",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A warm, light palette with elegant serifs balances recent cool tones and creates a classic, readable aesthetic."
   }
 ]

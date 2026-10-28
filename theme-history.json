@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-17",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "A light, warm palette with elegant serifs creates a welcoming Friday contrast to yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-07-18",
     "palette": "slate-cool",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serifs balances recent cool tones and creates a classic, readable aesthetic."
+  },
+  {
+    "date": "2026-10-28",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "After warm-paper yesterday, choosing a technical dark palette with monospace-inspired font for contrast and variety."
   }
 ]

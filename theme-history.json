@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-20",
-    "palette": "sage",
-    "font": "system",
-    "reasoning": "Sage provides a calm, natural contrast to yesterday's rose-quartz, paired with clean system font for a grounded Monday aesthetic."
-  },
-  {
     "date": "2026-07-21",
     "palette": "linen",
     "font": "fraunces-inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After yesterday's soft rose-quartz, switching to a dark sophisticated palette with clean sans-serif for Friday evening mood."
+  },
+  {
+    "date": "2026-10-31",
+    "palette": "sage",
+    "font": "fraunces-inter",
+    "reasoning": "Sage provides a light, natural contrast after midnight's darkness, paired with a serif-sans hybrid for visual interest on Halloween."
   }
 ]

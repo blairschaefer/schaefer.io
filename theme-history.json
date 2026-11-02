@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "palette": "midnight",
-    "font": "inter",
-    "reasoning": "After several light palettes, midnight provides a dramatic dark contrast paired with clean Inter for modern readability."
-  },
-  {
     "date": "2026-07-23",
     "palette": "warm-paper",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette after yesterday's warm sage, paired with crisp system font for a sharp Sunday aesthetic."
+  },
+  {
+    "date": "2026-11-02",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A warm, light palette with elegant serif font creates a cozy Monday morning aesthetic after yesterday's cool minimalism."
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "A warm, light palette with elegant serif pairing after yesterday's dark midnight theme."
-  },
-  {
     "date": "2026-07-24",
     "palette": "slate-cool",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serif font creates a cozy Monday morning aesthetic after yesterday's cool minimalism."
+  },
+  {
+    "date": "2026-11-03",
+    "palette": "terminal",
+    "font": "ibm-plex",
+    "reasoning": "Terminal palette with IBM Plex creates a technical, monospaced aesthetic that contrasts nicely with yesterday's warm classical combination."
   }
 ]

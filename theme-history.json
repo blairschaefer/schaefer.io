@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "palette": "rose-quartz",
-    "font": "ibm-plex",
-    "reasoning": "Rose-quartz provides a soft, light contrast after yesterday's cool slate, paired with the clean technical aesthetic of IBM Plex."
-  },
-  {
     "date": "2026-07-26",
     "palette": "sage",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "space-grotesk",
     "reasoning": "A soft, light palette paired with a geometric sans-serif to balance recent darker themes and technical styling."
+  },
+  {
+    "date": "2026-11-06",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "Midnight palette provides a dark contrast after yesterday's rose-quartz, paired with clean Inter font for modern minimalist coherence."
   }
 ]

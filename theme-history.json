@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "palette": "midnight",
-    "font": "inter",
-    "reasoning": "After recent light and neutral palettes, midnight brings contrast with a clean modern font pairing."
-  },
-  {
     "date": "2026-07-29",
     "palette": "warm-paper",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A clean, cool-toned palette paired with a crisp system font provides a refreshing contrast to yesterday's warm linen aesthetic."
+  },
+  {
+    "date": "2026-11-09",
+    "palette": "warm-paper",
+    "font": "playfair-source",
+    "reasoning": "A warm, light palette with elegant serif pairing creates a welcoming Monday contrast to yesterday's cool minimalism."
   }
 ]

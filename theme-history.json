@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "After yesterday's dark midnight palette, switching to a warm, light palette with elegant serif pairing for balance."
-  },
-  {
     "date": "2026-07-30",
     "palette": "slate-cool",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "playfair-source",
     "reasoning": "A warm, light palette with elegant serif pairing creates a welcoming Monday contrast to yesterday's cool minimalism."
+  },
+  {
+    "date": "2026-11-10",
+    "palette": "sage",
+    "font": "ibm-plex",
+    "reasoning": "Sage provides a calm, light palette after yesterday's warm-paper, paired with the technical clarity of ibm-plex for balanced contrast."
   }
 ]

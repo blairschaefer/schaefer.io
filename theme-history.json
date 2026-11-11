@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "palette": "slate-cool",
-    "font": "space-grotesk",
-    "reasoning": "A cool-toned palette with a technical geometric sans-serif creates a crisp, modern contrast to yesterday's warm aesthetic."
-  },
-  {
     "date": "2026-07-31",
     "palette": "rose-quartz",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "sage",
     "font": "ibm-plex",
     "reasoning": "Sage provides a calm, light palette after yesterday's warm-paper, paired with the technical clarity of ibm-plex for balanced contrast."
+  },
+  {
+    "date": "2026-11-11",
+    "palette": "rose-quartz",
+    "font": "space-grotesk",
+    "reasoning": "Rose-quartz provides a soft, light aesthetic after yesterday's sage, paired with the geometric modernity of space-grotesk for contemporary elegance."
   }
 ]

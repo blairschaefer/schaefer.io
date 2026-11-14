@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "palette": "linen",
-    "font": "inter",
-    "reasoning": "A light, neutral palette paired with a clean sans-serif creates a calm Sunday aesthetic after yesterday's organic sage theme."
-  },
-  {
     "date": "2026-08-03",
     "palette": "midnight",
     "font": "system",
@@ -598,5 +592,11 @@
     "palette": "charcoal",
     "font": "fraunces-inter",
     "reasoning": "After midnight's darkness, charcoal provides a softer dark tone paired with elegant serif-sans hybrid for Friday sophistication."
+  },
+  {
+    "date": "2026-11-14",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "After two dark palettes, switching to light linen with elegant serif font for a softer weekend feel."
   }
 ]

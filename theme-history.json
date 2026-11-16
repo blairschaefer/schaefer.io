@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "After midnight's darkness, a warm palette with elegant serifs creates inviting contrast."
-  },
-  {
     "date": "2026-08-05",
     "palette": "slate-cool",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "ink-blue",
     "font": "inter",
     "reasoning": "After yesterday's warm linen palette, ink-blue provides a cool, calming contrast while inter offers clean readability that complements the professional tone."
+  },
+  {
+    "date": "2026-11-16",
+    "palette": "warm-paper",
+    "font": "ibm-plex",
+    "reasoning": "Shifting to a warm, light palette after yesterday's darker ink-blue, paired with the technical clarity of IBM Plex for Monday energy."
   }
 ]

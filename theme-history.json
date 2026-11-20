@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "palette": "linen",
-    "font": "inter",
-    "reasoning": "A light, neutral palette paired with a clean sans-serif provides calm contrast after yesterday's organic sage-and-serif combination."
-  },
-  {
     "date": "2026-08-09",
     "palette": "midnight",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "Shifting to a dark palette after several lighter days, paired with a clean sans-serif for strong contrast and readability."
+  },
+  {
+    "date": "2026-11-20",
+    "palette": "linen",
+    "font": "playfair-source",
+    "reasoning": "Following yesterday's dark midnight palette with a light, warm linen paired with elegant serifs for a classic Friday aesthetic."
   }
 ]

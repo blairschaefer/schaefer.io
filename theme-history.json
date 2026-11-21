@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-09",
-    "palette": "midnight",
-    "font": "space-grotesk",
-    "reasoning": "After several light palettes, midnight provides contrast with a technical sans-serif that complements its modern, dark aesthetic."
-  },
-  {
     "date": "2026-08-10",
     "palette": "warm-paper",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "linen",
     "font": "playfair-source",
     "reasoning": "Following yesterday's dark midnight palette with a light, warm linen paired with elegant serifs for a classic Friday aesthetic."
+  },
+  {
+    "date": "2026-11-21",
+    "palette": "slate-cool",
+    "font": "system",
+    "reasoning": "A crisp, clean combination for Saturday that contrasts yesterday's warm linen with cool tones and an efficient system font."
   }
 ]

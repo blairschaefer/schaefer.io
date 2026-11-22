@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "palette": "warm-paper",
-    "font": "playfair-source",
-    "reasoning": "A warm, light palette with elegant serifs provides contrast after yesterday's dark theme and avoids recent selections."
-  },
-  {
     "date": "2026-08-11",
     "palette": "slate-cool",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "slate-cool",
     "font": "system",
     "reasoning": "A crisp, clean combination for Saturday that contrasts yesterday's warm linen with cool tones and an efficient system font."
+  },
+  {
+    "date": "2026-11-22",
+    "palette": "warm-paper",
+    "font": "ibm-plex",
+    "reasoning": "Warm, light palette with a clean technical font for a Sunday contrast to yesterday's cool slate."
   }
 ]

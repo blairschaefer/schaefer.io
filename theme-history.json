@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "palette": "slate-cool",
-    "font": "inter",
-    "reasoning": "A cool-toned palette provides contrast after yesterday's warm paper, paired with a clean sans-serif for a crisp, professional Tuesday feel."
-  },
-  {
     "date": "2026-08-12",
     "palette": "ink-blue",
     "font": "ibm-plex",
@@ -598,5 +592,11 @@
     "palette": "warm-paper",
     "font": "ibm-plex",
     "reasoning": "Warm, light palette with a clean technical font for a Sunday contrast to yesterday's cool slate."
+  },
+  {
+    "date": "2026-11-23",
+    "palette": "sage",
+    "font": "space-grotesk",
+    "reasoning": "Sage provides a fresh, light palette after yesterday's warm tones, paired with the clean geometric space-grotesk for a modern organic feel."
   }
 ]

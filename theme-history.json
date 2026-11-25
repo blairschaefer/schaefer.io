@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "palette": "sage",
-    "font": "fraunces-inter",
-    "reasoning": "Sage provides a calm, light palette after yesterday's darker ink-blue, paired with the elegant Fraunces-Inter combination for a sophisticated but approachable feel."
-  },
-  {
     "date": "2026-08-14",
     "palette": "rose-quartz",
     "font": "space-grotesk",
@@ -598,5 +592,11 @@
     "palette": "rose-quartz",
     "font": "fraunces-inter",
     "reasoning": "A soft, warm palette paired with an elegant serif-sans combination creates a gentle contrast after yesterday's nature-inspired theme."
+  },
+  {
+    "date": "2026-11-25",
+    "palette": "midnight",
+    "font": "inter",
+    "reasoning": "After several light/warm days, switching to a dark palette with a clean sans-serif creates contrast while avoiding recent selections."
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "palette": "rose-quartz",
-    "font": "space-grotesk",
-    "reasoning": "A soft, light palette paired with a geometric sans-serif for a fresh Friday feel after yesterday's organic serif combination."
-  },
-  {
     "date": "2026-08-15",
     "palette": "midnight",
     "font": "inter",
@@ -598,5 +592,11 @@
     "palette": "midnight",
     "font": "inter",
     "reasoning": "After several light/warm days, switching to a dark palette with a clean sans-serif creates contrast while avoiding recent selections."
+  },
+  {
+    "date": "2026-11-26",
+    "palette": "charcoal",
+    "font": "playfair-source",
+    "reasoning": "After midnight's darkness, charcoal offers a softer dark tone paired with elegant serif typography for visual sophistication."
   }
 ]

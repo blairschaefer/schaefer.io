@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "palette": "midnight",
-    "font": "inter",
-    "reasoning": "After yesterday's soft rose-quartz, a dark sophisticated midnight palette pairs well with clean Inter for weekend contrast."
-  },
-  {
     "date": "2026-08-16",
     "palette": "linen",
     "font": "playfair-source",
@@ -598,5 +592,11 @@
     "palette": "charcoal",
     "font": "playfair-source",
     "reasoning": "After midnight's darkness, charcoal offers a softer dark tone paired with elegant serif typography for visual sophistication."
+  },
+  {
+    "date": "2026-11-27",
+    "palette": "linen",
+    "font": "ibm-plex",
+    "reasoning": "Light palette to break from recent dark themes, paired with a clean technical font for Friday clarity."
   }
 ]
